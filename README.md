@@ -1,7 +1,6 @@
-`CodingMBA_UFRJ` é o conjunto de scripts que foram utilizados na elaboração da demonstração prática incluída na minha Monografia para Conclusão do Curso MBA em Engenharia de Dados da Escola Politécnica do Rio de Janeiro, tranando-se da implementação de arquitetura para ingestão e transformação de dados em uma arquitetura multi-hop (bronze, silver e gold) na Microsoft Azure.
+`CodingMBA_UFRJ` é o conjunto de scripts que foram utilizados na elaboração da demonstração prática incluída na minha Monografia para Conclusão do Curso MBA em Engenharia de Dados da Escola Politécnica do Rio de Janeiro, tratando-se da implementação da proposta de arquitetura do Capítulo 3 para ingestão e transformação de dados em uma arquitetura multi-hop (bronze, silver e gold) na Microsoft Azure.
 
 Essa iniciativa não é um simples complemento para o trabalho acadêmico, mas sim uma forma de estimular e apoiar a reprodutibilidade do que é proposto no trabalho científico (link a ser inserido aqui, no futuro, quando o trabalho estiver publicado formalmente). Códigos de programação em PySpark ou Spark SQL na plataforma Databricks.
-
 
 Fonte dos dados públicos utilizados. Apenas RAIS Vínculos Públicos para 2020 e 2021 = 136 milhões de linhas, Big Data.
 [http://pdet.mte.gov.br/microdados-rais-e-caged](http://pdet.mte.gov.br/microdados-rais-e-caged)
